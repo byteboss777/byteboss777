@@ -11,19 +11,19 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=byteboss726&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=byteboss726&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=byteboss777&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=byteboss777&theme=vue" />
 </p>
 
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byteboss726&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byteboss777&theme=vue"/>
 </p>
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byteboss726)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byteboss777)
 
 
 ## 💻 Tech Stack
